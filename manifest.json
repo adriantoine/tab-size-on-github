@@ -1,5 +1,5 @@
 {
-	"name": "Tab Size on GitHub",
+	"name": "Tab Size on GitHub (size 2)",
 	"version": "1.0.0",
 	"description": "Make tab indented code more readable by forcing the tab size to 2 instead of 8",
 	"homepage_url": "https://github.com/adriantoine/tab-size-on-github",

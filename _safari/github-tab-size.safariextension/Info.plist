@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Adrien Antoine</string>
+	<key>Builder Version</key>
+	<string>11601.5.17.1</string>
+	<key>CFBundleDisplayName</key>
+	<string>Tab Size on GitHub (size 2)</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.yourcompany.github-tab-size</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Content</key>
+	<dict>
+		<key>Stylesheets</key>
+		<array>
+			<string>content.css</string>
+		</array>
+	</dict>
+	<key>Description</key>
+	<string>Make tab indented code more readable by forcing the tab size to 2 instead of 8</string>
+	<key>DeveloperIdentifier</key>
+	<string>0000000000</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>github.com</string>
+				<string>gist.github.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>https://github.com/adriantoine/tab-size-on-github</string>
+</dict>
+</plist>

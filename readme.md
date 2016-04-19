@@ -12,7 +12,7 @@ It's intentionally simple and I'm not interested in adding anything more to it.
 
 ## Install
 
-* Chrome extension (coming soon)
+* [Chrome extension](https://chrome.google.com/webstore/detail/tab-size-on-github-size-2/mghflbfcpghfbcldbjfglegbklpljeie)
 * Opera add-on (coming soon)
 
 

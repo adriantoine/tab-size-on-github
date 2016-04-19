@@ -9,13 +9,12 @@ It's intentionally simple and I'm not interested in adding anything more to it.
 
 ![](screenshot.png)
 
-
 ## Install
 
 * [Chrome extension](https://chrome.google.com/webstore/detail/tab-size-on-github-size-2/mghflbfcpghfbcldbjfglegbklpljeie)
 * Opera add-on (coming soon)
 * Safari add-on (coming soon)
-
+	* __UPDATE:__ I made a working Safari extension but I am not a Certified Apple developer at the moment and I don't want to pay $99 just to publish 7 lines of CSS. I'll publish this extension if I become a Certified Apple developer one day in the future.
 
 ## License
 
